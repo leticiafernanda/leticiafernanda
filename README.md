@@ -5,7 +5,7 @@
 
 Sou a Letícia, desenvolvedora web & aventureira no desenvolvimento mobile.  
 
-:woman:desenvolvedor**a** Web full stack 
+:woman:Desenvolvedor**a** Web Full Stack 
 
 :sparkling_heart: Desbravando por JavaScritpt & Angular, e agora, estudando desenvolvimento Android com Kotlin. 
 
