@@ -10,3 +10,5 @@ Sou a Letícia, desenvolvedora web & aventureira no desenvolvimento mobile.
 :sparkling_heart: Desbravando por JavaScritpt, Html & Angular, e agora, estudando desenvolvimento Android com Kotlin. 
 
 :books: Graduada em Sistemas de Informação pela Puc Minas.
+
+:books: Pós-Graduação em Engenharia de Software pela Puc Minas.
