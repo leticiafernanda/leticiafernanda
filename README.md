@@ -5,9 +5,9 @@
 
 Sou a Letícia, desenvolvedora web & aventureira no desenvolvimento mobile.  
 
-:woman:Desenvolvedor**a** Web Full Stack 
+:woman:Desenvolvedor**a** Web Frontend 
 
-:sparkling_heart: Desbravando por JavaScritpt, Html & Angular, e agora, estudando desenvolvimento Android com Kotlin. 
+:sparkling_heart: Desbravando por JavaScritpt, Html & CSS, e agora, estudando REACT. 
 
 :books: Graduada em Sistemas de Informação pela Puc Minas.
 
